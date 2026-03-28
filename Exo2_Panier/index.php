@@ -5,7 +5,8 @@
         ["nom" => "Pomme","prix" => 5000,"quantite" => 25],
         ["nom" => "Banane","prix" => 2500,"quantite" => 12],
         ["nom"=>"Fraise","prix" => 3500,"quantite" => 32],
-        ["nom"=>"Poire","prix" => 1500,"quantite" => 2]
+        ["nom"=>"Poire","prix" => 1500,"quantite" => 2],
+        ["nom"=>"Grain de Riz","prix" => 15,"quantite" => 77]
     ];
 ?>
 <!DOCTYPE html>
