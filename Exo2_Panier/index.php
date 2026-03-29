@@ -20,19 +20,16 @@
             padding:0;
             box-sizing:border-box;
         }
-        table,thead,tbody{
-            border : black solid 2px;
-        }
     </style>
 </head>
 <body>
     <table>
         <thead>
             <tr>
-                <td> Nom </td>
-                <td> PrixUnitaire </td>
-                <td> Quantité </td>
-                <td> Total </td>
+                <td>Nom </td>
+                <td>PrixUnitaire </td>
+                <td>Quantité </td>
+                <td>Total </td>
             </tr>
         </thead>
         <tbody>
