@@ -29,10 +29,10 @@
     <table>
         <thead>
             <tr>
-                <td>Nom</td>
-                <td>PrixUnitaire</td>
-                <td>Quantité</td>
-                <td>Total</td>
+                <td> Nom </td>
+                <td> PrixUnitaire </td>
+                <td> Quantité </td>
+                <td> Total </td>
             </tr>
         </thead>
         <tbody>
